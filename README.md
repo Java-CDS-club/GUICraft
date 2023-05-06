@@ -1,0 +1,2 @@
+# GUICraft
+Ultimate GUI Configuration
